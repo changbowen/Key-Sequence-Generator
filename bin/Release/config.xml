@@ -2,9 +2,9 @@
 <CfgRoot>
   <Presets>
     <notepad>,Down,111;</notepad>
+    <GTA5>open menu,M,200;move selection,Down,200;select,Enter,200;move selection,Down,200;move selection,Down,200;move selection,Down,200;move selection,Down,200;select,Enter,200;eat snack,Enter,200;</GTA5>
   </Presets>
   <LastProcess></LastProcess>
   <LastMode>Manual (v2)</LastMode>
   <LastPreset>GTA5</LastPreset>
-</CfgRoot>
 </CfgRoot>
